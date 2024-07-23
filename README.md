@@ -1,4 +1,4 @@
-# T2 Compiladores
+# T3 Compiladores
 
 O trabalho 3 (T3) da disciplina consiste em implementar parte de um analisador semântico para a linguagem LA (Linguagem Algorítmica) desenvolvida pelo prof. Jander, no âmbito do DC/UFSCar.
 
